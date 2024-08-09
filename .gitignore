@@ -1,0 +1,32 @@
+# Node modules directory
+node_modules/
+
+# Log files
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Environment files
+.env
+.env.test
+
+# Build output
+dist/
+build/
+tmp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# npm package lock files (if you use `yarn`, you can ignore `yarn.lock` instead)
+package-lock.json
